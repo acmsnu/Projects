@@ -1,10 +1,11 @@
 # Project Ideas
+Create issues to propose a new Project Idea. The discussion will be carried out in the issue itself. Once the idea is finalized, the issue will be closed and the project will be added to the list below.
+Once the issue is closed, a new folder should be created in the root directory with the name of the project. The folder should contain a README.md file with the following structure:
+```markdown
+# Project Name
+## Description
+## Features
+## Tech Stack
+## Contributors
+```
 
-## 1. Storefront
-## 2. PayTM Spoof
-## 3. Prom Match (Aura points)
-## 4. Creating a library to implement the graph structure using bits.
-## 5. Monopoly game using PyGame
-## 6. Flappy Bird
-## 7. Card games (Multiplayer)
-## 8. Unified Content uploader across platforms
